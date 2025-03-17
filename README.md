@@ -1,1 +1,1 @@
-# Netflix_Case_Study-
+This Project is about Data Analysis of Netflix using python Libraries
